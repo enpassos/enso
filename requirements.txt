@@ -3,5 +3,7 @@ numpy==1.26.4
 matplotlib==3.8.0
 xarray==2023.6.0
 noaa_ftp==0.1.11
-pythia-datasets
-netcdf4
+pythia-datasets=0.0.0
+netcdf4==1.6.4
+cartopy==0.22.0
+geoviews=1.10.1
