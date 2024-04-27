@@ -7,3 +7,4 @@ pythia-datasets
 netcdf4==1.6.4
 cartopy==0.22.0
 geoviews==1.10.1
+scipy==1.11.2
