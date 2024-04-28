@@ -8,4 +8,4 @@ netcdf4==1.6.4
 cartopy==0.22.0
 geoviews==1.10.1
 scipy==1.11.2
-nc-time-axis=1.2.0
+nc-time-axis==1.2.0
